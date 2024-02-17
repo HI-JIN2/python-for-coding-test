@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "code/6.정렬/정렬 알고리즘.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "code/6.정렬/정렬 알고리즘.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "code/6.정렬/정렬 알고리즘.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "code/6.정렬/정렬 알고리즘.md"
+                "file": "README.md"
               }
             }
           }
@@ -149,6 +149,10 @@
   },
   "active": "d7518aea166a86df",
   "lastOpenFiles": [
+    "code/6.정렬/정렬 알고리즘.md",
+    "2024-02-17.md",
+    "스크린샷 2024-02-17 오후 6.02.08.png",
+    "스크린샷 2024-02-17 오후 5.59.06.png",
     "code/6.정렬/6-6.계수정렬.py",
     "code/6.정렬/6-4.퀵정렬.py",
     "code/6.정렬/6-3.삽입정렬.py",
@@ -157,11 +161,8 @@
     "code/5.DFS&BFS/6-3.삽입정렬.py",
     "code/5.DFS&BFS/6-4.퀵정렬.py",
     "code/5.DFS&BFS/5.DFS&BFS.md",
-    "2024-02-17.md",
-    "code/6.정렬/정렬 알고리즘.md",
     "code/5.DFS&BFS/6-2.삽입정렬.py",
     "code/5.DFS&BFS/6-2.삽입정렬.Py",
-    "code/5.DFS&BFS/6-1.선택 정렬.py",
-    "code/6.정렬"
+    "code/5.DFS&BFS/6-1.선택 정렬.py"
   ]
 }

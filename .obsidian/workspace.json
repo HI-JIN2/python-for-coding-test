@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c1822a4d342fdb06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "code/6.정렬/정렬 알고리즘.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "eefe1cad4368066c",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "code/5.DFS&BFS/5.DFS&BFS.md",
+                "file": "code/6.정렬/정렬 알고리즘.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "code/5.DFS&BFS/5.DFS&BFS.md",
+                "file": "code/6.정렬/정렬 알고리즘.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "code/5.DFS&BFS/5.DFS&BFS.md"
+                "file": "code/6.정렬/정렬 알고리즘.md"
               }
             }
           }
@@ -146,9 +160,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "506ea3fbb96d2318",
+  "active": "c1822a4d342fdb06",
   "lastOpenFiles": [
-    "code/6.정렬",
-    "code/5.DFS&BFS/5.DFS&BFS.md"
+    "code/5.DFS&BFS/5.DFS&BFS.md",
+    "code/6.정렬/정렬 알고리즘.md",
+    "code/6.정렬"
   ]
 }

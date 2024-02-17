@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "eefe1cad4368066c",
@@ -149,7 +148,16 @@
   },
   "active": "d7518aea166a86df",
   "lastOpenFiles": [
+    "code/4.구현/그리디 & 구현.md",
+    "code/4.구현/4-0.그리디 & 구현.md",
+    "code/5.DFS&BFS/5-0.DFS&BFS.md",
     "code/6.정렬/정렬 알고리즘.md",
+    "code/6.정렬/6-0.정렬 알고리즘.md",
+    "code/6.정렬/6-11.성적이 낮은 순서로 학생 출력하기.py",
+    "code/6.정렬/6-11.성적이 낮은 순서로 학생 출력하기",
+    "code/6.정렬/6-12.두 배열의 원소 교체.py",
+    "code/6.정렬/두 배열의 원소 교체.py",
+    "README.md",
     "2024-02-17.md",
     "스크린샷 2024-02-17 오후 6.02.08.png",
     "스크린샷 2024-02-17 오후 5.59.06.png",
@@ -159,10 +167,6 @@
     "code/6.정렬/6-1.선택 정렬.py",
     "code/5.DFS&BFS/6-6.계수정렬.py",
     "code/5.DFS&BFS/6-3.삽입정렬.py",
-    "code/5.DFS&BFS/6-4.퀵정렬.py",
-    "code/5.DFS&BFS/5.DFS&BFS.md",
-    "code/5.DFS&BFS/6-2.삽입정렬.py",
-    "code/5.DFS&BFS/6-2.삽입정렬.Py",
-    "code/5.DFS&BFS/6-1.선택 정렬.py"
+    "code/5.DFS&BFS/DFS&BFS.md"
   ]
 }

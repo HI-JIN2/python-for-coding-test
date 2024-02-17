@@ -148,6 +148,7 @@
   },
   "active": "d7518aea166a86df",
   "lastOpenFiles": [
+    "code/6.정렬/P.py",
     "code/6.정렬/practice.py",
     "code/6.정렬/6-10.위에서 아래로.py",
     "code/4.구현/그리디 & 구현.md",
@@ -167,7 +168,6 @@
     "code/6.정렬/6-4.퀵정렬.py",
     "code/6.정렬/6-3.삽입정렬.py",
     "code/6.정렬/6-1.선택 정렬.py",
-    "code/5.DFS&BFS/6-6.계수정렬.py",
     "code/5.DFS&BFS/DFS&BFS.md"
   ]
 }

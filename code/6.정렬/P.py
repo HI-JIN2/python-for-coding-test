@@ -1,14 +1,14 @@
 from collections import Counter
+
+
 n=int(input())
-n_array =[]
-for i in range(n):
-    n_array.append(list(map(int,input().split())))
+n_array= list(map(int,input().split()))
 
 
 m=int(input())
-m_array =[]
-for i in range(m):
-    m_array.append(list(map(int,input().split())))
+m_array=list(map(int,input().split()))
+
+# print(n_array)
 
 count = Counter(n_array)
 

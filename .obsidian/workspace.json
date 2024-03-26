@@ -40,9 +40,19 @@
                 "currentVersion": "1.5.8"
               }
             }
+          },
+          {
+            "id": "bac32522f9c906f4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -169,7 +179,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e2a87ecb5640def5",
+  "active": "bac32522f9c906f4",
   "lastOpenFiles": [
     "README.md",
     "무제 파일.md",
